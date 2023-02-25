@@ -278,13 +278,13 @@ export const Timeline = () => {
               className="vertical-timeline-element-title"
               data-aos="fade-right"
             >
-              Student [HSC (Science)]
+              Completed Higher Secondary - Commerce
             </h3>
             <h4
               className="vertical-timeline-element-subtitle"
               data-aos="fade-right"
             >
-              Janata Jr. College, Ruichhattishi, Ahmednagar
+              Sagramji High School, Gondal
             </h4>
             <p data-aos="fade-right">
               Studied 12th Science and Passed with 85.69 Percentage.

@@ -32,9 +32,6 @@ export const Introduction = () => {
                 <span className="different">
                   Atmiya Institute of Technology & Science, Rajkot (India)
                 </span>
-                . Then I joined full stack development course by{" "}
-                <span className="different">Masai School</span> a military type
-                coding school.
               </h4>
               <h4>Terms That can describe me apart form Coding :</h4>
               <h4 className="different">
@@ -47,19 +44,13 @@ export const Introduction = () => {
                 <span className="icons">
                   <ExitToAppIcon />
                 </span>
-                Chess Enthusiast{" "}
+                Gamer{" "}
               </h4>
               <h4 className="different">
                 <span className="icons">
                   <ExitToAppIcon />
                 </span>
                 YouTuber{" "}
-              </h4>
-              <h4 className="different">
-                <span className="icons">
-                  <ExitToAppIcon />
-                </span>
-                Poet{" "}
               </h4>
             </div>
           </div>

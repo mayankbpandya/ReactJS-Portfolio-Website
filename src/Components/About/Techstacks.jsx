@@ -1,6 +1,6 @@
 import React from "react";
 import "./Techstacks.css";
-import { FaReact, FaNodeJs, FaAws } from "react-icons/fa";
+import { FaReact, FaNodeJs, FaAws, FaPython } from "react-icons/fa";
 import {
   SiRedux,
   SiHtml5,
@@ -8,7 +8,8 @@ import {
   SiExpress,
   SiRedis,
   SiTailwindcss,
-  SiNetlify
+  SiNetlify,
+  SiDjango
 } from "react-icons/si";
 import { DiCss3, DiMongodb } from "react-icons/di";
 import { SiJavascript, SiHeroku } from "react-icons/si";
@@ -52,8 +53,12 @@ export const Techstacks = () => {
           </div>
 
           <div>
-            <FaAws />
-            <h5>AWS</h5>
+            <FaPython />
+            <h5>Python</h5>
+          </div>
+          <div>
+            <SiDjango />
+            <h5>Django</h5>
           </div>
           <div>
             <BsBootstrap />
@@ -62,10 +67,6 @@ export const Techstacks = () => {
           <div>
             <BsWordpress />
             <h5>Wordpress</h5>
-          </div>
-          <div>
-            <SiHeroku />
-            <h5>Heroku</h5>
           </div>
           <div>
             <VscGithub />
