@@ -11,6 +11,8 @@ import DescriptionIcon from "@material-ui/icons/Description";
 import { Introduction } from "./Introduction";
 import { Timeline } from "./Timeline";
 import { Techstacks } from "./Techstacks";
+import resume from "../../assets/Resume_Mayank_Pandya.pdf";
+
 // import Button from "@mui/material/Button";
 export const About = () => {
   return (
@@ -70,7 +72,7 @@ export const About = () => {
           className="btnResume"
           onClick={() => {
             window.open(
-              "https://drive.google.com/file/d/1O7O6dgBNriadNFoYRj8kHr6-dyPyoG4n/view?usp=sharing"
+              resume
             );
           }}
         >
